@@ -1,0 +1,25 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Fabebook chatbot",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "botly": "^1.4.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhiotellez/bot.git"
+  },
+  "author": "Jose Jhovanny Tellez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhiotellez/bot/issues"
+  },
+  "homepage": "https://github.com/jhiotellez/bot#readme"
+}
